@@ -1,0 +1,48 @@
+@options
+@packages
+-classpath
+'C:/Users/IdeaPad 320/.m2/repository/org/apache/pdfbox/pdfbox/2.0.24/pdfbox-2.0.24.jar;C:/Users/IdeaPad 320/.m2/repository/org/apache/pdfbox/fontbox/2.0.24/fontbox-2.0.24.jar;C:/Users/IdeaPad 320/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/IdeaPad 320/Documents/NetBeansProjects/PDFLOCK/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/IdeaPad 320/Documents/NetBeansProjects/PDFLOCK/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PDFLOCK 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'PDFLOCK 1.0-SNAPSHOT API'
+com.mycompany.pdflock
+C:\Users\IdeaPad 320\.m2\repository\org\apache\pdfbox\pdfbox\2.0.24\pdfbox-2.0.24.jar = 1623080087000
+C:\Users\IdeaPad 320\.m2\repository\org\apache\pdfbox\fontbox\2.0.24\fontbox-2.0.24.jar = 1623079996000
+C:\Users\IdeaPad 320\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar = 1685649986301
+C:\Users\IdeaPad 320\Documents\NetBeansProjects\PDFLOCK\src\main\java = 1707350485878
+C:\Users\IdeaPad 320\Documents\NetBeansProjects\PDFLOCK\target\site\apidocs\allclasses-index.html = 1707353213472
+C:\Users\IdeaPad 320\Documents\NetBeansProjects\PDFLOCK\target\site\apidocs\allpackages-index.html = 1707353213476
+C:\Users\IdeaPad 320\Documents\NetBeansProjects\PDFLOCK\target\site\apidocs\element-list = 1707353213390
+C:\Users\IdeaPad 320\Documents\NetBeansProjects\PDFLOCK\target\site\apidocs\help-doc.html = 1707353213507
+C:\Users\IdeaPad 320\Documents\NetBeansProjects\PDFLOCK\target\site\apidocs\index-all.html = 1707353213497
+C:\Users\IdeaPad 320\Documents\NetBeansProjects\PDFLOCK\target\site\apidocs\index.html = 1707353213500
+C:\Users\IdeaPad 320\Documents\NetBeansProjects\PDFLOCK\target\site\apidocs\jquery-ui.overrides.css = 1707353213527
+C:\Users\IdeaPad 320\Documents\NetBeansProjects\PDFLOCK\target\site\apidocs\member-search-index.js = 1707353213483
+C:\Users\IdeaPad 320\Documents\NetBeansProjects\PDFLOCK\target\site\apidocs\module-search-index.js = 1707353213479
+C:\Users\IdeaPad 320\Documents\NetBeansProjects\PDFLOCK\target\site\apidocs\overview-tree.html = 1707353213455
+C:\Users\IdeaPad 320\Documents\NetBeansProjects\PDFLOCK\target\site\apidocs\package-search-index.js = 1707353213481
+C:\Users\IdeaPad 320\Documents\NetBeansProjects\PDFLOCK\target\site\apidocs\script.js = 1707353213513
+C:\Users\IdeaPad 320\Documents\NetBeansProjects\PDFLOCK\target\site\apidocs\search.js = 1707353213517
+C:\Users\IdeaPad 320\Documents\NetBeansProjects\PDFLOCK\target\site\apidocs\serialized-form.html = 1707353213433
+C:\Users\IdeaPad 320\Documents\NetBeansProjects\PDFLOCK\target\site\apidocs\stylesheet.css = 1707353213510
+C:\Users\IdeaPad 320\Documents\NetBeansProjects\PDFLOCK\target\site\apidocs\tag-search-index.js = 1707353213485
+C:\Users\IdeaPad 320\Documents\NetBeansProjects\PDFLOCK\target\site\apidocs\type-search-index.js = 1707353213482
